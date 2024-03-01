@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Word Cards</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="filters">
+        <div>
+            <div id="levelFilter">
+                <label><input id="level1cb" type="checkbox" name="level" value="1" checked> Level 1</label>
+                <label><input id="level2cb" type="checkbox" name="level" value="2" checked> Level 2</label>
+                <label><input id="level3cb" type="checkbox" name="level" value="3" checked> Level 3</label>
+            </div>
+            <div id="typeFilter">
+                <label><input id="angercb" type="checkbox" name="type" value="anger" checked> Anger</label>
+                <label><input id="disgustcb" type="checkbox" name="type" value="disgust" checked> Disgust</label>
+                <label><input id="fearcb" type="checkbox" name="type" value="fear" checked> Fear</label>
+                <label><input id="happycb" type="checkbox" name="type" value="happy" checked> Happy</label>
+                <label><input id="sadcb" type="checkbox" name="type" value="sad" checked> Sad</label>
+                <label><input id="surprisecb" type="checkbox" name="type" value="surprise" checked> Surprise</label>
+            </div>
+        </div>
+        <div>
+            <label><input type="checkbox" id="showDefinition" checked> Show Definition</label>
+            <label><input type="checkbox" id="showExample" checked> Show Example</label>
+            <label><input type="checkbox" id="showLevel" checked> Show Level</label>
+            <label><input type="checkbox" id="colorize" checked> Colorize</label>
+        </div>
+    </div>
+    <div id="wordsGrid"></div>
+    <script src="script.js"></script>
+</body>
+</html>

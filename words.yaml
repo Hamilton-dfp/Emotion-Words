@@ -1,0 +1,566 @@
+- word: disgust
+  definition: Disgust is a feeling you get when something is unpleasant, yucky, or makes you want to say "ew!"
+  example: Imagine you find a piece of fruit in your lunchbox that's moldy and smells bad. You might feel disgust and not want to eat it because it looks and smells yucky.
+  level: 1
+  type: disgust
+- word: anger
+  definition: Anger is the feeling you have when something or someone upsets you or makes you very annoyed.
+  example: If you were building a tall tower with your blocks and someone knocked it down on purpose, you might feel angry because your hard work was ruined.
+  level: 1
+  type: anger
+- word: fear
+  definition: Fear is the feeling you get when you're scared that something bad is going to happen or when something frightens you.
+  example: If you're walking in the dark and hear a strange noise, you might feel fear because you can't see what's making the noise and you're scared it might be something bad.
+  level: 1
+  type: fear
+- word: surprise
+  definition: Surprise is a feeling you have when something unexpected happens that you didn't see coming.
+  example: If your friends throw you a party and you had no idea it was happening, you'd feel surprise when you walked in and everyone yelled, "Surprise!"
+  level: 1
+  type: surprise
+- word: happy
+  definition: Happy is the feeling you have when you're feeling joyful, content, or pleased about something.
+  example: You might feel happy when you get a surprise visit from a friend you haven't seen in a long time.
+  level: 1
+  type: happy
+- word: sad
+  definition: Sad is the feeling you have when you're unhappy, disappointed, or feeling down about something.
+  example: You might feel sad if your ice cream falls off the cone onto the ground before you can eat it.
+  level: 1
+  type: sad
+- word: avoidance
+  level: 2
+  type: disgust
+  definition: Avoidance is when you try to stay away from something because it makes you uncomfortable or scared.
+  example: If you don't like talking in front of the class, you might feel avoidance and try to stay in your seat when the teacher asks for volunteers.
+- word: awful
+  level: 2
+  type: disgust
+  definition: Awful is when something is very bad or unpleasant to the point of making you feel upset or shocked.
+  example: If you watched a movie that was scary and made you feel really uncomfortable, you might describe it as awful.
+- word: disappointed
+  level: 2
+  type: disgust
+  definition: Disappointed is how you feel when something isn't as good as you hoped or expected it to be.
+  example: You might feel disappointed if you were looking forward to a picnic, but it got cancelled because of rain.
+- word: disapproval
+  level: 2
+  type: disgust
+  definition: Disapproval is the feeling you have when you think something someone does isn't right or good.
+  example: If your friend decides to skip homework to play video games, you might feel disapproval because you think it's important to do homework first.
+- word: critical
+  level: 2
+  type: anger
+  definition: Critical is when you're finding faults or problems in something or someone, often because you expect a certain level of quality or behavior.
+  example: If you're critical of a drawing you made, it means you keep looking at it and thinking about all the things you could have done better.
+- word: distant
+  level: 2
+  type: anger
+  definition: Distant is when you're not close to someone or something, either physically or emotionally.
+  example: If you have a friend who hasn't been talking to you much lately, you might feel like they're being distant.
+- word: frustrated
+  level: 2
+  type: anger
+  definition: Frustrated is the feeling you get when you're upset or annoyed because you can't do something or something isn't happening the way you want.
+  example: If you're trying to solve a difficult puzzle and it's not coming together, you might feel frustrated.
+- word: aggressive
+  level: 2
+  type: anger
+  definition: Aggressive is when you're very forceful or confrontational in the way you behave or speak.
+  example: If someone yells and argues every time they don't get their way, they're being aggressive.
+- word: mad
+  level: 2
+  type: anger
+  definition: Mad is another word for angry, which is feeling upset or annoyed because of something or someone.
+  example: You might feel mad if someone breaks your favorite toy and doesn't say sorry.
+- word: hateful
+  level: 2
+  type: anger
+  definition: Hateful is feeling intense dislike or hostility towards someone or something.
+  example: If someone keeps saying very mean things about your friend, you might think their behavior is hateful.
+- word: threatened
+  level: 2
+  type: anger
+  definition: Threatened is the feeling you get when you think you're in danger or someone might hurt you in some way.
+  example: If a bigger dog growls at your small dog at the park, your small dog might feel threatened.
+- word: hurt
+  level: 2
+  type: anger
+  definition: Hurt is the feeling you have when you're emotionally or physically in pain.
+  example: If your friend says something mean about you, you might feel hurt because it's upsetting.
+- word: humiliated
+  level: 2
+  type: fear
+  definition: Humiliated is feeling very ashamed or embarrassed, often because someone has made you look foolish in front of others.
+  example: If you trip and fall in the cafeteria and everyone laughs, you might feel humiliated.
+- word: rejected
+  level: 2
+  type: fear
+  definition: Rejected is how you feel when someone says no to you or doesn't include you, making you feel unwanted.
+  example: If you ask to join a game and they say you can't play, you might feel rejected.
+- word: submissive
+  level: 2
+  type: fear
+  definition: Submissive is when you give in to others' demands or show you're not willing to stand up for yourself.
+  example: If you always do what your friends want without saying what you want, you're being submissive.
+- word: insecure
+  level: 2
+  type: fear
+  definition: Insecure is feeling not confident about yourself or worried about what others think of you.
+  example: If you're worried that your friends don't really like you, you might feel insecure.
+- word: anxious
+  level: 2
+  type: fear
+  definition: Anxious is feeling worried, nervous, or uneasy about something with an uncertain outcome.
+  example: If you're waiting to hear if you made the soccer team, you might feel anxious until you find out.
+- word: scared
+  level: 2
+  type: fear
+  definition: Scared is feeling afraid or frightened of something that might happen or has happened.
+  example: If you hear a loud noise in the night and don't know what it is, you might feel scared.
+- word: startled
+  level: 2
+  type: surprise
+  definition: Startled is feeling surprised and slightly scared because of something sudden or unexpected.
+  example: If someone jumps out and yells "Boo!" when you thought you were alone, you'd feel startled.
+- word: confused
+  level: 2
+  type: surprise
+  definition: Confused is when you feel unsure or cannot understand something clearly.
+  example: If you're watching a magic trick that seems impossible, you might feel confused about how it was done.
+- word: amazed
+  level: 2
+  type: surprise
+  definition: Amazed is feeling very surprised or astonished by something wonderful or hard to believe.
+  example: Seeing a shooting star for the first time might leave you feeling amazed.
+- word: excited
+  level: 2
+  type: surprise
+  definition: Excited is feeling very enthusiastic and eager about something that is going to happen or about something you want to do.
+  example: If you're about to go on your first airplane ride, you might feel excited about the adventure.
+- word: joyful
+  level: 2
+  type: happy
+  definition: Joyful is feeling very happy, full of joy, or showing great happiness.
+  example: You might feel joyful on your birthday when you see all your friends and family gathered just to celebrate with you.
+- word: interested
+  level: 2
+  type: happy
+  definition: Interested is feeling curious or paying attention because you want to learn more about something or enjoy it.
+  example: If you find a book about dinosaurs and can't stop reading, you're really interested in learning more about them.
+- word: proud
+  level: 2
+  type: happy
+  definition: Proud is feeling pleased and satisfied about something you have done or something someone close to you has achieved.
+  example: When you finish a big puzzle all by yourself, you might feel proud of your accomplishment.
+- word: accepted
+  level: 2
+  type: happy
+  definition: Accepted is feeling welcomed or approved by others, making you feel part of a group or community.
+  example: If you're new at school and are invited to join a game at recess, you might feel accepted and happy that others want you to play with them.
+- word: powerful
+  level: 2
+  type: happy
+  definition: Powerful is feeling strong and capable, able to do things or influence outcomes.
+  example: After you learn to ride your bike without training wheels, you might feel powerful and confident in your new skill.
+- word: peaceful
+  level: 2
+  type: happy
+  definition: Peaceful is feeling calm, quiet, and at ease, without any worry or stress.
+  example: Lying on the grass and looking at the clouds can make you feel peaceful and relaxed.
+- word: intimate
+  level: 2
+  type: happy
+  definition: Intimate is feeling a close connection with someone, often involving personal or private feelings.
+  example: Sharing a secret with your best friend that you haven't told anyone else can make your friendship feel more intimate.
+- word: optimistic
+  level: 2
+  type: happy
+  definition: Optimistic is feeling hopeful and positive about the future, believing that good things will happen.
+  example: Even if it's raining in the morning, feeling optimistic that the sun will come out later can make you happy.
+- word: bored
+  level: 2
+  type: sad
+  definition: Bored is feeling weary and uninterested because you are not entertained or engaged by anything.
+  example: If you have nothing to do on a rainy day and all your toys seem uninteresting, you might feel bored.
+- word: lonely
+  level: 2
+  type: sad
+  definition: Lonely is feeling sad because you are alone or do not feel connected to others.
+  example: If you're sitting by yourself at lunch while everyone else is talking and laughing together, you might feel lonely.
+- word: depressed
+  level: 2
+  type: sad
+  definition: Depressed is feeling very sad, hopeless, and unimportant, sometimes without a clear reason.
+  example: Sometimes, even when everything seems okay, you might feel depressed and find it hard to enjoy things you usually like.
+- word: despair
+  level: 2
+  type: sad
+  definition: Despair is feeling a loss of hope, feeling like there is no way to solve a problem or improve a situation.
+  example: If you've tried to solve a math problem over and over without success, you might feel despair, thinking you'll never get it right.
+- word: abandoned
+  level: 2
+  type: sad
+  definition: Abandoned is feeling left alone and unwanted, as if everyone has gone away and forgotten about you.
+  example: If your friends go to a movie without inviting you, you might feel abandoned.
+- word: guilty
+  level: 2
+  type: sad
+  definition: Guilty is feeling responsible for doing something wrong or hurting someone, which makes you feel upset.
+  example: If you accidentally break your friend's toy and lie about it, you might feel guilty for both the accident and the lie.
+- word: hesitant
+  level: 3
+  type: disgust
+  definition: Hesitant is feeling unsure or reluctant to do something, often because of a slight feeling of disgust or aversion.
+  example: If you're about to try a new food that looks strange to you, you might feel hesitant because you're worried it might taste bad.
+- word: aversion
+  level: 3
+  type: disgust
+  definition: Aversion is a strong dislike or disinclination towards something, often because it causes feelings of disgust.
+  example: If you have an aversion to spiders, just seeing one might make you feel uncomfortable and want to leave the room.
+- word: detestable
+  level: 3
+  type: disgust
+  definition: Detestable means deserving intense dislike, something so unpleasant that it evokes disgust.
+  example: Littering in beautiful natural places is detestable because it spoils the environment and harms wildlife.
+- word: revulsion
+  level: 3
+  type: disgust
+  definition: Revulsion is a strong feeling of disgust or repugnance towards something extremely unpleasant.
+  example: Seeing someone harm an animal can cause a feeling of revulsion because it's cruel and upsetting.
+- word: revolted
+  level: 3
+  type: disgust
+  definition: Revolted is feeling intense disgust; very strongly repelled by something you find completely unacceptable.
+  example: If you see someone being bullied and the bully's behavior disgusts you, you might feel revolted by their actions.
+- word: repugnant
+  level: 3
+  type: disgust
+  definition: Repugnant is something that is extremely distasteful or unacceptable, causing a feeling of disgust.
+  example: Discrimination is repugnant because it unfairly judges people based on things they can't control, like where they were born.
+- word: loathing
+  level: 3
+  type: disgust
+  definition: Loathing is a feeling of intense dislike or disgust for someone or something.
+  example: If someone keeps lying to you and betraying your trust, you might develop a loathing for their dishonesty.
+- word: judgmental
+  level: 3
+  type: disgust
+  definition: Judgmental is having or displaying an excessively critical point of view, often leading to feelings of disgust towards others' choices or behaviors.
+  example: If someone is judgmental about a friend's choice of clothing, they might express unnecessary disgust or disapproval towards their appearance.
+- word: sarcastic
+  level: 3
+  type: anger
+  definition: Sarcastic is using irony to mock or convey contempt, often as a form of expressing anger or annoyance indirectly.
+  example: If someone is late and you say, "Nice of you to join us," in a tone that shows you're upset, that's being sarcastic.
+- word: skeptical
+  level: 3
+  type: anger
+  definition: Skeptical is having doubts or questioning the truthfulness of something, often as a reaction to not being convinced or trusting, which can be linked to feelings of anger or betrayal.
+  example: If someone often breaks their promises, you might be skeptical when they make a new promise, feeling a mix of doubt and irritation.
+- word: suspicious
+  level: 3
+  type: anger
+  definition: Suspicious is feeling distrust about someone's intentions or actions, often leading to anger or resentment if you believe you're being deceived.
+  example: If your sibling sneaks around and hides things from you, you might feel suspicious and angry about what they're up to.
+- word: withdrawn
+  level: 3
+  type: anger
+  definition: Withdrawn is pulling back or distancing oneself emotionally from situations or people, sometimes as a response to underlying anger or dissatisfaction.
+  example: After an argument with a friend, you might become withdrawn, avoiding them because you're still upset.
+- word: irritated
+  level: 3
+  type: anger
+  definition: Irritated is feeling annoyed or bothered by something, often a minor issue that persists over time.
+  example: If someone keeps tapping their pen while you're trying to concentrate, you might feel irritated.
+- word: infuriate
+  level: 3
+  type: anger
+  definition: Infuriate is to make someone extremely angry, often with something perceived as unfair or disrespectful.
+  example: If someone deliberately spoils the ending of a book you're reading, it might infuriate you.
+- word: hostile
+  level: 3
+  type: anger
+  definition: Hostile is showing open opposition or aggression toward someone or something, often stemming from deep-seated anger.
+  example: A hostile confrontation might occur if someone insults something important to you, like your family.
+- word: provoked
+  level: 3
+  type: anger
+  definition: Provoked is being stimulated or incited to anger or irritation by someone's actions or words.
+  example: If someone teases you relentlessly until you snap at them, you've been provoked into anger.
+- word: enraged
+  level: 3
+  type: anger
+  definition: Enraged is feeling extremely angry, to the point of losing control over emotions, often as a result of something seen as profoundly unjust or offensive.
+  example: If someone harms a loved one, the act could leave you feeling enraged.
+- word: furious
+  level: 3
+  type: anger
+  definition: Furious is feeling a violent intensity of anger, where one finds it hard to contain their rage.
+  example: Finding out someone lied to you about something significant can make you feel furious.
+- word: violated
+  level: 3
+  type: anger
+  definition: Violated is feeling that your personal space, body, or rights have been disrespectfully or forcefully infringed upon, leading to feelings of anger and betrayal.
+  example: If someone goes through your personal belongings without permission, you might feel violated.
+- word: resentful
+  level: 3
+  type: anger
+  definition: Resentful is feeling bitterness or indignation at having been treated unfairly, holding onto anger over time.
+  example: Being overlooked for a promotion you deserved can leave you feeling resentful towards your employer.
+- word: jealous
+  level: 3
+  type: anger
+  definition: Jealous is feeling or showing envy of someone or their achievements and advantages, often leading to anger towards oneself or the envied person.
+  example: If your best friend spends more time with someone else, you might feel jealous and angry.
+- word: insecure
+  level: 3
+  type: anger
+  definition: Insecure, in the context of anger, is feeling not confident in oneself, which can lead to feelings of anger and frustration, especially when compared to others.
+  example: Feeling insecure about your abilities might make you angry when others achieve success more easily.
+- word: devastated
+  level: 3
+  type: anger
+  definition: Devastated is feeling extreme emotional pain or distress, often leading to anger and frustration when something significant is lost or destroyed.
+  example: Losing a cherished possession or the end of a close relationship can leave you feeling devastated and angry at the situation.
+- word: embarrassed
+  level: 3
+  type: anger
+  definition: Embarrassed is feeling ashamed and humiliated, sometimes causing anger towards oneself or the situation that caused the embarrassment.
+  example: If you trip and fall in a public place, you might feel embarrassed and angry at yourself for being clumsy.
+- word: ridiculed
+  level: 3
+  type: fear
+  definition: Ridiculed is being made fun of or mocked in a mean way, causing feelings of shame or embarrassment.
+  example: If classmates laugh at your answer in class, making you feel stupid, that's being ridiculed.
+- word: disrespected
+  level: 3
+  type: fear
+  definition: Disrespected is feeling that your feelings, thoughts, or presence are not valued or taken seriously by others.
+  example: When someone talks over you or dismisses your ideas without consideration, you might feel disrespected.
+- word: alienated
+  level: 3
+  type: fear
+  definition: Alienated is feeling isolated or estranged from others, often because you think differently or don't fit in with a group.
+  example: If you're the only one in your group who likes certain activities, you might feel alienated.
+- word: inadequate
+  level: 3
+  type: fear
+  definition: Inadequate is feeling not good enough or lacking in some way compared to others or a certain standard.
+  example: If you think everyone else is smarter or more talented, you might feel inadequate.
+- word: insignificant
+  level: 3
+  type: fear
+  definition: Insignificant is feeling unimportant or like you don't matter, possibly because your contributions or presence seem overlooked.
+  example: If no one notices or appreciates what you do, you might feel insignificant.
+- word: worthless
+  level: 3
+  type: fear
+  definition: Worthless is feeling of no value or importance, often as a result of harsh criticism or failure.
+  example: After repeated failures or harsh criticism, you might start to feel worthless.
+- word: inferior
+  level: 3
+  type: fear
+  definition: Inferior is feeling lower in status or quality than others, possibly due to negative comparisons or feedback.
+  example: If you constantly compare yourself to your peers and find yourself lacking, you might feel inferior.
+- word: worried
+  level: 3
+  type: fear
+  definition: Worried is feeling anxious or concerned about a potential problem or danger.
+  example: If you have a big test coming up and you're not prepared, you might feel worried about failing.
+- word: overwhelmed
+  level: 3
+  type: fear
+  definition: Overwhelmed is feeling unable to cope because things are too much to handle, causing stress and anxiety.
+  example: If you have too many assignments due at the same time, you might feel overwhelmed.
+- word: frightened
+  level: 3
+  type: fear
+  definition: Frightened is feeling afraid or scared of something specific, often leading to a desire to avoid or escape it.
+  example: If you're walking alone at night and hear strange noises, you might feel frightened.
+- word: terrified
+  level: 3
+  type: fear
+  definition: Terrified is being extremely scared, to the point of being paralyzed or overwhelmed by fear.
+  example: If you're afraid of heights, standing at the edge of a tall building can make you feel terrified.
+- word: shocked
+  level: 3
+  type: surprise
+  definition: Shocked is feeling a sudden and intense surprise, often caused by something unexpected or disturbing.
+  example: If you see a car accident happen right in front of you, you might feel shocked by the suddenness and severity of the event.
+- word: dismayed
+  level: 3
+  type: surprise
+  definition: Dismayed is feeling distress, typically caused by something unexpected and unwelcome.
+  example: Finding out your favorite park is being turned into a parking lot could leave you feeling dismayed.
+- word: disillusioned
+  level: 3
+  type: surprise
+  definition: Disillusioned is feeling disappointed because you discovered something is not as good as you believed it to be.
+  example: If you idolize a celebrity and then learn they have been unkind to fans, you might feel disillusioned.
+- word: perplexed
+  level: 3
+  type: surprise
+  definition: Perplexed is feeling very puzzled or confused, unable to understand something complex or unexpected.
+  example: When you encounter a problem in math that doesn't make sense no matter how many times you review it, you might feel perplexed.
+- word: astonished
+  level: 3
+  type: surprise
+  definition: Astonished is feeling extremely surprised or amazed, especially by something very unexpected.
+  example: Seeing someone perform an incredible magic trick that seems impossible might leave you feeling astonished.
+- word: awe
+  level: 3
+  type: surprise
+  definition: Awe is a feeling of reverential respect mixed with fear or wonder, often inspired by something majestic or powerful.
+  example: Watching a beautiful sunset that fills the whole sky with color can fill you with a sense of awe.
+- word: eager
+  level: 3
+  type: surprise
+  definition: Eager is feeling a strong desire or enthusiasm to do or to have something, especially something interesting or enjoyable.
+  example: If you're about to start a new book by your favorite author, you might feel eager to dive into the story.
+- word: energetic
+  level: 3
+  type: surprise
+  definition: Energetic is showing or involving great activity or vitality, often as a result of being excited or stimulated by something.
+  example: After hearing you've won a competition, you might feel an energetic burst of happiness and start jumping around in excitement.
+- word: liberated
+  level: 3
+  type: happy
+  definition: Liberated is feeling free from restrictions or societal norms, experiencing a sense of freedom and release.
+  example: After finishing your final exams, you might feel liberated, free to enjoy your hobbies without worry.
+- word: ecstatic
+  level: 3
+  type: happy
+  definition: Ecstatic is feeling overwhelming happiness or joyful excitement, often in response to a specific event.
+  example: If you find out you've won a prize you really wanted, you could feel ecstatic about the news.
+- word: amused
+  level: 3
+  type: happy
+  definition: Amused is finding something funny or entertaining, leading to feelings of enjoyment and laughter.
+  example: Watching a funny movie that makes you laugh out loud leaves you feeling amused.
+- word: inquisitive
+  level: 3
+  type: happy
+  definition: Inquisitive is showing curiosity and a desire to learn or know more about something, finding joy in discovery.
+  example: Visiting a science museum and exploring all the exhibits can make you feel inquisitive and excited to learn.
+- word: important
+  level: 3
+  type: happy
+  definition: Important is feeling valued and significant, either in the eyes of others or in the context of a particular situation.
+  example: Being chosen as the team captain can make you feel important and appreciated.
+- word: confident
+  level: 3
+  type: happy
+  definition: Confident is feeling self-assured and certain in your own abilities, leading to a positive and content state of mind.
+  example: After practicing a piano piece for weeks and playing it perfectly, you might feel confident in your musical skills.
+- word: respected
+  level: 3
+  type: happy
+  definition: Respected is feeling admired and held in high esteem by others, contributing to a sense of self-worth and satisfaction.
+  example: When your ideas are listened to and valued by your peers, you feel respected.
+- word: fulfilled
+  level: 3
+  type: happy
+  definition: Fulfilled is feeling satisfied and content, having achieved what you desired or fulfilled your potential in some way.
+  example: Completing a challenging project that benefits your community can leave you feeling fulfilled.
+- word: courageous
+  level: 3
+  type: happy
+  definition: Courageous is feeling brave and having the courage to face fears or challenges, often bringing a sense of pride and happiness.
+  example: Standing up for a friend in need can make you feel courageous and proud of yourself.
+- word: provocative
+  level: 3
+  type: happy
+  definition: Provocative, in a positive sense, is stimulating discussion or thought, often leading to a feeling of excitement or interest.
+  example: Engaging in a lively debate on a topic you're passionate about can be provocative and thrilling.
+- word: loving
+  level: 3
+  type: happy
+  definition: Loving is feeling or showing love and affection, leading to feelings of happiness and contentment.
+  example: Spending quality time with family or close friends can make you feel loving and loved in return.
+- word: hopeful
+  level: 3
+  type: happy
+  definition: Hopeful is feeling optimistic about the future or the outcome of something, bringing a sense of anticipation and joy.
+  example: Applying for your dream job and feeling like you might actually get it can leave you feeling hopeful.
+- word: sensitive
+  level: 3
+  type: happy
+  definition: Sensitive is being aware of and responsive to the needs or feelings of others, leading to meaningful and happy connections.
+  example: When you comfort a friend in need and they appreciate your support, you feel sensitive and happy to have helped.
+- word: playful
+  level: 3
+  type: happy
+  definition: Playful is feeling light-hearted and inclined to play or have fun, often leading to laughter and enjoyment.
+  example: A day at the beach, building sandcastles and splashing in the waves, can make you feel playful and joyful.
+- word: open
+  level: 3
+  type: happy
+  definition: Open is being receptive to new experiences, ideas, or the perspectives of others, often leading to happiness through discovery and connection.
+  example: Trying a new type of cuisine for the first time and loving it can make you feel open and adventurous.
+- word: inspired
+  level: 3
+  type: happy
+  definition: Inspired is feeling motivated or stimulated to do something creative or beneficial, often leading to a deep sense of satisfaction.
+  example: Watching an inspiring documentary about someone who changed the world can leave you feeling motivated to make your own positive impact.
+- word: indifferent
+  level: 3
+  type: sad
+  definition: Indifferent is feeling no interest, concern, or sympathy; apathetic or detached.
+  example: If your friends are excited about a plan and you feel no enthusiasm, you might feel indifferent about what's happening.
+- word: apathetic
+  level: 3
+  type: sad
+  definition: Apathetic is showing or feeling no interest, enthusiasm, or concern for anything.
+  example: When you can't find the energy to care about your hobbies or interests, you're feeling apathetic.
+- word: isolated
+  level: 3
+  type: sad
+  definition: Isolated is feeling alone and separated from others, without support or companionship.
+  example: Moving to a new city where you don't know anyone can make you feel isolated.
+- word: abandoned
+  level: 3
+  type: sad
+  definition: Abandoned is feeling left behind and forsaken, as if everyone has gone away and left you alone.
+  example: If your close friends make plans without you, you might feel abandoned.
+- word: empty
+  level: 3
+  type: sad
+  definition: Empty is feeling a lack of purpose, fulfillment, or contentment in life, as if something vital is missing.
+  example: After finishing a long-term project or goal, you might feel empty, unsure of what to pursue next.
+- word: inferior
+  level: 3
+  type: sad
+  definition: Inferior is feeling lower in status or quality compared to others, often leading to sadness or low self-esteem.
+  example: Seeing peers excel in areas where you struggle can make you feel inferior.
+- word: vulnerable
+  level: 3
+  type: sad
+  definition: Vulnerable is feeling exposed to the possibility of being attacked or harmed, either physically or emotionally.
+  example: Sharing a personal story in a public setting can leave you feeling vulnerable.
+- word: powerless
+  level: 3
+  type: sad
+  definition: Powerless is feeling unable to control or influence events or other people's actions, leading to frustration and sadness.
+  example: Watching a loved one struggle with an illness can make you feel powerless.
+- word: victimized
+  level: 3
+  type: sad
+  definition: Victimized is feeling that you have been the victim of unfair treatment or abuse.
+  example: Being bullied or harassed without being able to stop it can make you feel victimized.
+- word: ignored
+  level: 3
+  type: sad
+  definition: Ignored is feeling as if people are deliberately not paying attention to you or your needs.
+  example: When you're talking and others talk over you or don't listen, you might feel ignored.
+- word: ashamed
+  level: 3
+  type: sad
+  definition: Ashamed is feeling embarrassed or guilty because of one's actions, characteristics, or associations.
+  example: If you make a mistake that hurts someone else and regret it, you might feel ashamed.
+- word: remorseful
+  level: 3
+  type: sad
+  definition: Remorseful is feeling deep regret or guilt for a wrong committed.
+  example: After realizing the impact of a hurtful comment, you may feel remorseful and wish to apologize.
+
